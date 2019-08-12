@@ -1,1 +1,11 @@
-This is a git repo for readMe
+This is a password generator for Linux. This is a script you could use in the command line to output a random string.
+The random string depends on action of input used during script execution.
+For example, if you run:
+./genPass
+The output will be a random string of uppercase, lowercase, and/or numbers ranging from 8-32 characters.
+If you run the script with the argument of any string, it will return a random string of equal length.
+./genPass aNeyStr
+If you run the script with the arguments of netagive or postive integers, a random string will be returned with that length.
+./genPass 12
+./genPass -12
+Only running the script, string, or integers are accepted as input.
