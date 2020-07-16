@@ -5,7 +5,7 @@ For example, if you run:
 The output will be a random string of uppercase, lowercase, and/or numbers ranging from 8-32 characters.
 If you run the script with the argument of any string, it will return a random string of equal length.
 ./genPass aNeyStr
-If you run the script with the arguments of netagive or postive integers, a random string will be returned with that length.
+If you run the script with the arguments of negative or postive integers, a random string will be returned with that length.
 ./genPass 12
 ./genPass -12
 Only running the script, string, or integers are accepted as input.
