@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Copyright (c) 2020, David Geovanny Chavez
+# All rights reserved.
+
+# This source code is licensed under the BSD-style license found in the
+# LICENSE file in the root directory of this source tree. 
+
+
 # This is a random password generator.
 # Created by davidc
 # Version 1
